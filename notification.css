@@ -1,0 +1,28 @@
+.mainNotification{
+                color:#fff;
+                padding: 10px;
+                border-radius: 10px;
+                position: absolute;
+                right:15px;
+                transition: 0.5s ease all;
+            }
+            .mainNotification.error{
+                background: #ef6e6e;
+                top:15px;
+            }
+            .mainNotification.success{
+                background: #51af65;
+                top:15px;
+            }
+            .mainNotification.remove{
+                top:-99em;
+                transition: 0.5s ease all;
+            }
+            .mainNotification .closeIcon{
+                cursor: pointer;
+                z-index: 99;
+                margin-left: 10px;
+                border: 1px solid #fff;
+                border-radius: 50%;
+
+            }
