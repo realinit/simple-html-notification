@@ -54,4 +54,7 @@ function Boutinit() {
                 }
 
             }
-            Boutinit();
+window.onload = function(){
+  Boutinit();
+}
+            
