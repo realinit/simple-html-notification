@@ -13,3 +13,8 @@ we are also working on its update.
 
 # For Demo click below link
 https://realinit.github.io/simplehtmlnotification/
+
+# Email
+nitin.1992tyagi@gmail.com
+# linkdin
+https://www.linkedin.com/in/ntyagi1/
